@@ -1,0 +1,3 @@
+Content_Folder_= "https://drive.google.com/drive/folders/1JodqklMjNJEwALDu_GP9Tlj7mTmYYdCM?usp=sharing"
+Multicolinearity_Folder ="https://drive.google.com/drive/folders/1ho7fLzjjKoB_aqpTNz6mFKorqHG-Z2vH?usp=sharing"
+EDA_Folder ="https://drive.google.com/drive/folders/19TdBXC8ETh3XhqlBTgPVWXwXKFyV8miq?usp=sharing"
